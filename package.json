@@ -1,0 +1,31 @@
+{
+  "name": "slugify-cli",
+  "version": "1.0.0",
+  "description": "Slug it",
+  "main": "slugify-cli.js",
+  "bin": {
+    "slugify": "./slugify-cli.js"
+  },
+  "dependencies": {
+    "cli": "^1.0.1",
+    "slugify": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbarless/slugify-cli.git"
+  },
+  "keywords": [
+    "slugify",
+    "cli"
+  ],
+  "author": "Chris Barless <chris@barless.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbarless/slugify-cli/issues"
+  },
+  "homepage": "https://github.com/chrisbarless/slugify-cli#readme"
+}
